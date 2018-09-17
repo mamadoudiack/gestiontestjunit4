@@ -1,4 +1,4 @@
-package gestiontestjunit4;
+package gestiontestjunit;
 
 import static org.junit.Assert.*;
 
@@ -7,6 +7,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import gestiontestjunit.Division;
 
 public class DivisionTest {
 	static Division div;

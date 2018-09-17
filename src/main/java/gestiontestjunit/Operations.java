@@ -1,4 +1,4 @@
-package gestiontestjunit4;
+package gestiontestjunit;
 
 public class Operations {
 	
