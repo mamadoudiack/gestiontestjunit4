@@ -8,7 +8,7 @@ public class Division extends Operations{
 		if(b == 0){
 			Logger logger= Logger.getLogger("InfoLogging");
 			logger.info("************************connexion a la base******************************");
-
+          System.out.println("merci ");
 			throw new IllegalArgumentException("La division par b = 0 est impossible");
 		}else{
 			
